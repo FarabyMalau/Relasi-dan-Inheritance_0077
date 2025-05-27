@@ -14,6 +14,7 @@ class pasien{ //Asosiasi
             cout << "pasien \"" << nama
             << "\" tidak ada\n";
         }
+        void tambahDokter(dokter*);
+        void cetakDokter();
+};
 
-        
-}
